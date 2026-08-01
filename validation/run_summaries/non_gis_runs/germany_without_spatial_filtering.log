@@ -1,0 +1,14 @@
+================================================================================
+Running case: without_spatial_filtering
+Radius pair: (17.8, 47.9)
+Tower costs: {17.8: 0.9548110056672545, 47.9: 2.2526929866666667}
+================================================================================
+without_spatial_filtering: selected towers saved to C:\Users\Sharon Mathew PR\Documents\Personal\Germany\FAU\CAM\S5_2026\ProjektSeminar\Optimized_Tower_Placement_Outputs\without_spatial_filtering\selected_towers_without_spatial_filtering.csv
+without_spatial_filtering: map saved to C:\Users\Sharon Mathew PR\Documents\Personal\Germany\FAU\CAM\S5_2026\ProjektSeminar\Optimized_Tower_Placement_Outputs\without_spatial_filtering\tower_coverage_map_without_spatial_filtering.png
+without_spatial_filtering: objective value = 60.25643390368018
+without_spatial_filtering: installation cost = 60.25643390368019
+without_spatial_filtering: interference penalty = 0.0
+without_spatial_filtering: selected towers = 40
+without_spatial_filtering: hard spatial violations = 16
+without_spatial_filtering: soft/conditional warnings = 16
+without_spatial_filtering: runtime seconds = 42.59

@@ -1,0 +1,21 @@
+Independent Selected Tower Verification
+=======================================
+
+City file: C:\Users\Sharon Mathew PR\Documents\Personal\Germany\FAU\CAM\S5_2026\ProjektSeminar\data\cities\cities_de_50k.txt
+Selected towers file: C:\Users\Sharon Mathew PR\Documents\Personal\Germany\FAU\CAM\S5_2026\ProjektSeminar\results\selected_towers_germany.csv
+
+Number of cities: 236
+Number of selected towers: 40
+Uncovered cities: 0
+Cities covered exactly once: 236
+Cities with interference: 0
+Maximum coverage count for any city: 1
+Total excess coverage: 0
+
+Lambda: 2.0
+Installation cost: 60.256434
+Interference penalty: 0.000000
+Independent objective value: 60.256434
+
+Tower count by radius: {17.8: 23, 47.9: 17}
+Cost by radius: {17.8: 21.960653130346856, 47.9: 38.295780773333334}

@@ -1,0 +1,6 @@
+================================================================================
+PHASE 1 : COARSE SEARCH
+================================================================================
+Pair=(5.0, 9.5) | Obj=119.8122 | Install=119.8122 | Penalty=0.0000 | Towers=134 | Gap=0.0 | Time=34.94s | Status=OPTIMAL
+Pair=(5.0, 14.0) | Obj=109.0989 | Install=109.0989 | Penalty=0.0000 | Towers=121 | Gap=0.0 | Time=40.91s | Status=OPTIMAL
+Pair=(5.0, 18.6) | Obj=95.6831 | Install=95.6831 | Penalty=0.0000 | Towers=104 | Gap=0.0 | Time=40.62s | Status=OPTIMAL
