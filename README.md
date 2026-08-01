@@ -1,7 +1,7 @@
 # Tower Coverage Optimization
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Gurobi](https://img.shields.io/badge/Gurobi-%20Optimization-FF6F00)
+![Gurobi](https://img.shields.io/badge/Gurobi-%20Optimization-FF6F00?logo=gurobi&logoColor=white)
 ![Method](https://img.shields.io/badge/Method-%20Optimization-0A66C2)
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-6F42C1)
 
